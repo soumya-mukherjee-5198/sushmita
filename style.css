@@ -1,0 +1,37 @@
+*{margin: 0px; padding: 0px; font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;}
+#fullbody{background-image: url("58931.jpg");}
+#hero{display: inline;padding-left: 200px; padding-top: 50px;}
+#contents{display: inline;margin: 100px;text-align: center;font-size: x-large;font-style: italic;}
+#herocontents{display: flex;}
+
+#logo{height: 100px; display: flex;}
+
+.navbarcon{margin-top: 20px;
+    margin-left: 200px;
+    display: inline;
+    padding-top: 20px;
+    font-style: normal;
+    text-align: center;
+    text-shadow: 10px;
+    text-decoration: none;
+    justify-content: center;color: white; font-size: large;
+    font-style: oblique;}
+
+#navbar{
+    display: flex;
+    top: 10px;
+    background-image: url(bara.jpg);width: 100%;}
+
+.navbarcon:hover{cursor: pointer;
+    color: hotpink;}
+
+#cont2{text-align: justify; justify-content: center;font-size: x-large;padding: 100px;}
+
+#odrform{font-size: larger; text-align: center; font-size: x-large;border-style: solid;margin-left: 400px;margin-right: 400px;border-radius: 30px;padding: 20px; border-color:pink;}
+label{font-style: italic;}
+form{font-size: x-large;}
+
+.inp{font-size: large; border-radius: 10px; border-color: white;}
+button{text-align: center;justify-content: center; font-size: large;border-color: white;padding: 10px;border-radius: 50px;}
+button:hover{cursor: pointer; transform: scale(50px); background-color: red; color: white;}
+footer{background-color:palevioletred; font-size: small;font-style: italic;}
