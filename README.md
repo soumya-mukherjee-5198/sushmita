@@ -1,2 +1,2 @@
-# sushmita
+# sushmita.github.io
 Latte Lounge
