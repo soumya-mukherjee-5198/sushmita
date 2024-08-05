@@ -1,13 +1,13 @@
 *{margin: 0px; padding: 0px; font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;}
 #fullbody{background-image: url("58931.jpg");}
 #hero{display: inline;padding-left: 200px; padding-top: 50px;}
-#contents{display: inline;margin: 100px;text-align: center;font-size: x-large;font-style: italic;}
+#contents{display: inline;margin: 100px;text-align: center;font-size: x-large;font-style: italic;justify-content: center; margin-left: 350px;}
 #herocontents{display: flex;}
 
 #logo{height: 100px; display: flex;}
 
 .navbarcon{margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 250px;
     display: inline;
     padding-top: 20px;
     font-style: normal;
@@ -35,3 +35,4 @@ form{font-size: x-large;}
 button{text-align: center;justify-content: center; font-size: large;border-color: white;padding: 10px;border-radius: 50px;}
 button:hover{cursor: pointer; transform: scale(50px); background-color: red; color: white;}
 footer{background-color:palevioletred; font-size: small;font-style: italic;}
+#res{color: green; font-size: medium;}
